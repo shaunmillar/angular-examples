@@ -1,0 +1,10 @@
+{
+  "name": "basic-angular-template",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A simple AngularJS template with server.",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-connect": "^0.2.0"
+  }
+}
